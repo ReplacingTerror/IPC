@@ -100,7 +100,7 @@ nav > ul > li > a { width: auto; padding: 10px 20px 15px 20px; }
 footer::before {content: ''; display: block; clear: both;}
 footer { font-size: .8em; margin: 40px; color: #999;}
 footer .content { display: inline; }
-footer a { margin-left: 30px; #777;  }
+footer a { margin-left: 30px; #777; }
 footer a:visited { color: #777;  }
 footer a:hover { color: #000;  }
 
