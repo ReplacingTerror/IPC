@@ -24,7 +24,7 @@ a:visited { color: black; }
 
 /* Header */
 
-header { height: 430px; background: #cf0004 url(Images/banner2.png) no-repeat center bottom; position: relative; }
+header { height: 430px; background: #cf0004 url(../PICS/Banner2.png) no-repeat center bottom; position: relative; }
 
 /* Section - All*/
 
