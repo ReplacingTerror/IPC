@@ -7,7 +7,11 @@ body {
     padding: 0;
 }
 
-#page { max-width: 1200px; margin: 0 auto; position: relative; }
+#page { 
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
 
 /*Text*/
 
